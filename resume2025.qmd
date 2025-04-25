@@ -1,0 +1,109 @@
+---
+title: "Resume"
+format: html
+page-layout: full
+toc: true
+---
+
+# Elizabeth Sanchez
+
+Email: Elizabeth91764\@gmail.com  Phone: 909-260-6716
+
+------------------------------------------------------------------------
+
+## Professional Summary
+
+Data-driven professional with expertise in data analysis, reporting, and market research. Skilled in R, Python, Excel, SQL, and Tableau, with experience in AI-assisted marketing, customer segmentation, and predictive modeling. Proven ability to analyze large datasets, generate actionable insights, and optimize marketing and business strategies. Passionate about leveraging data analytics to drive informed decision-making and improve operational efficiency.
+
+------------------------------------------------------------------------
+
+## Work Experience
+
+### CalOptima -- Behavioral Health Member Liaison
+
+*Orange, CA \| Feb 2019 -- Sep 2021, Oct 2022 -- Present*
+
+-   Performed data entry and documentation within the Medical Management System, ensuring compliance with PHI/HIPAA guidelines.
+-   Supported quality assurance efforts by reviewing service utilization data and assisting with validation processes.
+-   Collaborated with providers and internal teams to maintain accurate and up-to-date service information.
+
+### CalOptima -- Senior Behavioral Health Representative
+
+*Orange, CA \| Feb 2017 -- Feb 2019*
+
+-   Entered, updated, and maintained program data, ensuring accuracy and compliance with reporting standards.
+-   Tracked service utilization trends and generated reports to support program evaluation.
+-   Assisted in data-driven decision-making by providing insights from member interactions.
+
+### E Broker -- Health Consultant
+
+*Rancho Cucamonga, CA \| Nov 2014 -- Feb 2017*
+
+-   Managed client records and enrollment documentation in compliance with ACA policies.
+-   Used CRM tools and spreadsheets to track enrollment data and generate reports.
+-   Improved outreach by analyzing trends in client engagement and retention.
+
+### Results Studio -- Founder & Business Manager
+
+*Ontario, CA \| Sep 2009 -- Feb 2015*
+
+-   Created business performance reports using KPIs related to sales, engagement, and revenue.
+-   Managed marketing analytics using social media metrics to assess campaign performance.
+-   Oversaw budget forecasting and operational planning.
+
+------------------------------------------------------------------------
+
+## Internships & Projects
+
+### KyoChon Chicken Market Expansion -- Market Research & Data Analytics Intern
+
+*Cal Poly Pomona \| Jan 2024 -- Present*
+
+-   Conducted market and SWOT analyses of the Korean fried chicken industry in the U.S.
+-   Performed sentiment analysis on customer reviews using Python and R.
+-   Evaluated SEO and digital marketing performance to support strategic recommendations.
+
+### Stukent (Simulated) -- Data Analyst Intern
+
+*Cal Poly Pomona \| Jan 2025 -- Present*
+
+-   Processed and validated large datasets across Excel, Tableau, and Google Sheets.
+-   Built dashboards and reports to support campaign optimization.
+
+### Stukent (Simulated) -- Digital Marketing Analyst Intern
+
+*Cal Poly Pomona \| Sep 2023 -- Dec 2023*
+
+-   Managed ad campaigns across Google Ads and social platforms.
+-   Performed A/B testing and keyword analysis to increase engagement.
+-   Created reports tracking campaign ROI and customer acquisition.
+
+------------------------------------------------------------------------
+
+## Education
+
+### Master of Science in Digital Marketing and Analytics
+
+California State Polytechnic University, Pomona\
+GPA: 4.0 (In Progress -- Expected Aug 2025)\
+- Focus: Data Analytics, Business Intelligence, AI in Marketing
+
+### Bachelor of Arts in Psychology
+
+California State Polytechnic University, Pomona\
+GPA: 3.86, Summa Cum Laude\
+- Emphasis: Industrial/Organizational Psychology\
+- Honors: Dean's List, President's List
+
+------------------------------------------------------------------------
+
+## Technical Skills & Tools
+
+-   **Data Tools:** R (ggplot2, dplyr, tidyr, shiny), Python, SQL, Tableau, Excel, Google Sheets\
+-   **Marketing Tools:** Google Analytics, HubSpot, Moz, ChatGPT, SurveyMonkey, Qualtrics\
+-   **Analytics:** Customer Segmentation, Predictive Modeling, A/B Testing, Market Research\
+-   **Reporting:** Qualtrics XM, Airtable, Program Performance Tracking, Compliance Documentation
+
+------------------------------------------------------------------------
+
+### 📄 [Download Resume as PDF](Resume2025.pdf)

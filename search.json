@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "I apply advanced analytics techniques to uncover meaningful insights from marketing data and translate them into clear, strategic recommendations. My training combines statistical theory with practical applications in customer behavior, segmentation, sentiment analysis, and forecasting—developed through both hands-on projects and graduate-level coursework.\n\n\n\n\n\n\nUsed VADER for rule-based sentiment scoring and BERT for contextual sentiment analysis.\nApplied LDA (Latent Dirichlet Allocation) to uncover key themes in large volumes of unstructured text.\nConducted text cleaning, keyword extraction, and topic modeling to support brand perception analysis.\n\n\n\n\n\nAnalyzed raw survey data to evaluate brand awareness, product preferences, and customer perception.\nApplied ANOVA, t-tests, and linear regression in R to uncover group differences and behavioral trends.\nAligned findings with the Ansoff Matrix and segmentation models to inform marketing strategy.\n\n\n\n\n\nExperienced with factor analysis, discriminant analysis, conjoint analysis, and structural equation modeling (SEM).\nUsed multivariate techniques to explore consumer decision-making and psychological constructs.\n\n\n\n\n\nApplied time series regression, exponential smoothing, and ARIMA to model and forecast customer demand and revenue trends.\nBuilt forecasting models to support campaign planning and budget decisions.\n\n\n\n\n\nCleaned and transformed data using Tidyverse (R) and Pandas (Python).\nVisualized insights using ggplot2, Matplotlib, Quarto Revealjs, and interactive dashboards.\nCreated reproducible, data-driven reports using R Markdown and Quarto.\n\n\n\n\n\n\nLanguages & Libraries:\nR (Tidyverse, ggplot2, gtsummary, R Markdown), Python (Pandas, NLTK, VADER, BERT, LDA, Matplotlib)\nStatistical Methods:\nANOVA, t-tests, Regression, Conjoint Analysis, Factor Analysis, SEM, A/B Testing, Forecasting\nSurvey & CRM Tools:\nGoogle Forms, HubSpot, Zoho\nReporting & Visualization:\nR Markdown, Quarto Revealjs, Excel, PowerPoint\nNotebook Environments:\nJupyter Notebook, Google Colab"
+  },
+  {
+    "objectID": "analytics.html#core-competencies",
+    "href": "analytics.html#core-competencies",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Used VADER for rule-based sentiment scoring and BERT for contextual sentiment analysis.\nApplied LDA (Latent Dirichlet Allocation) to uncover key themes in large volumes of unstructured text.\nConducted text cleaning, keyword extraction, and topic modeling to support brand perception analysis.\n\n\n\n\n\nAnalyzed raw survey data to evaluate brand awareness, product preferences, and customer perception.\nApplied ANOVA, t-tests, and linear regression in R to uncover group differences and behavioral trends.\nAligned findings with the Ansoff Matrix and segmentation models to inform marketing strategy.\n\n\n\n\n\nExperienced with factor analysis, discriminant analysis, conjoint analysis, and structural equation modeling (SEM).\nUsed multivariate techniques to explore consumer decision-making and psychological constructs.\n\n\n\n\n\nApplied time series regression, exponential smoothing, and ARIMA to model and forecast customer demand and revenue trends.\nBuilt forecasting models to support campaign planning and budget decisions.\n\n\n\n\n\nCleaned and transformed data using Tidyverse (R) and Pandas (Python).\nVisualized insights using ggplot2, Matplotlib, Quarto Revealjs, and interactive dashboards.\nCreated reproducible, data-driven reports using R Markdown and Quarto."
+  },
+  {
+    "objectID": "analytics.html#tools-technologies",
+    "href": "analytics.html#tools-technologies",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Languages & Libraries:\nR (Tidyverse, ggplot2, gtsummary, R Markdown), Python (Pandas, NLTK, VADER, BERT, LDA, Matplotlib)\nStatistical Methods:\nANOVA, t-tests, Regression, Conjoint Analysis, Factor Analysis, SEM, A/B Testing, Forecasting\nSurvey & CRM Tools:\nGoogle Forms, HubSpot, Zoho\nReporting & Visualization:\nR Markdown, Quarto Revealjs, Excel, PowerPoint\nNotebook Environments:\nJupyter Notebook, Google Colab"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marketing Analytics Portfolio",
+    "section": "",
+    "text": "Elizabeth Sanchez\n\n\nDigital Marketing & Analytics Graduate Student\n\n\nEmail: Elizabeth91764@gmail.com LinkedIn: linkedin.com/in/ElizabethSanchez\n\n\n\n\nAbout Me\nWelcome to my portfolio. I’m Elizabeth Sanchez, a graduate student in the Digital Marketing program with a strong interest in combining creative strategy and analytical thinking to deliver meaningful business results.\nWith a background in both traditional and digital marketing, I’ve worked across various industries including behavioral health, education, and small business consulting. These experiences have shaped my ability to understand audience needs, craft compelling messages, and evaluate performance through data.\nWhat drives me most is the challenge of turning complex information into clear, strategic insights that help brands grow. I enjoy digging into consumer behavior, identifying patterns, and using those findings to guide campaign decisions, product positioning, and storytelling. I’m also passionate about equity in communication—making sure messages reach and resonate with diverse communities.\nThis portfolio highlights the projects I’ve worked on throughout my graduate program, including data visualization, market research, segmentation analysis, and marketing strategy. Each project represents a different piece of the larger puzzle: how businesses can better connect with people in an increasingly digital world.\nWhether it’s designing a strategy, analyzing survey data, or presenting insights to stakeholders, I’m committed to producing work that’s thoughtful, grounded in data, and aligned with real-world impact.\n\n\n\n\n\n\nResume\n\n\n\n\n📄 Download Resume as PDF"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "Conducted sentiment analysis on Google and Yelp reviews for KyoChon, a popular Korean fried chicken restaurant, as part of a digital marketing capstone.\n\nCleaned and prepared review text data using Python and Pandas, addressing duplicates, null values, and special characters.\n\nApplied BERT (Bidirectional Encoder Representations from Transformers) to extract deeper, context-aware sentiment from customer reviews.\n\nIdentified recurring themes in reviews through topic modeling and keyword frequency analysis, helping the team understand brand perception across locations.\n\nVisualized findings using Matplotlib to present trends and consumer insights to guide potential strategy for brand improvement.\n\nTools & Concepts:\nPython, BERT, NLP, Sentiment Analysis, Pandas, Matplotlib, Data Cleaning, Topic Modeling, Consumer Insight, Brand Perception\n\n\n\n\n\nParticipated in a marketing internship focused on increasing awareness and engagement with the Cal Poly Pomona Farm Store and weekly farmer’s market.\n\nConducted persona development based on observational data and stakeholder discussions.\n\nAssisted in strategy design using tools like the Marketing Funnel and SWOT Analysis to identify growth opportunities.\n\nProposed creative digital and on-campus outreach ideas, including themed event days, student incentives, and social media content aligned with community values.\n\nCollaborated with a small team to prepare presentation materials and deliver strategic recommendations to Farm Store leadership.\n\nTools & Concepts:\nAudience Targeting, Persona Creation, SWOT Analysis, Grassroots Marketing, Digital Strategy, Campaign Planning, Team Collaboration, Internship Experience\n\n\n\n\n\nContributed to a team project analyzing consumer insights for a health-focused snack product.\n\nHelped design survey sections focused on brand awareness, slogan testing, and flavor preferences using Google Forms.\n\nCleaned and organized raw survey data using R and Excel, preparing variables for analysis and visualization.\n\nConducted basic descriptive and comparative analysis, highlighting patterns in purchase intent, health behaviors, and packaging preferences.\n\nSupported presentation development using Quarto Revealjs to summarize findings for stakeholders.\n\nTools & Concepts:\nR, Excel, Survey Design, Brand Awareness, Segmentation, Ansoff Matrix, Purchase Intent, Data Cleaning, Visualization\n\n\n\n\n\nAssisted in formatting and refining a faculty-led research survey on student interactions with AI tools in academic environments.\n\nTranslated a detailed draft into a user-friendly and logically structured Google Form, improving readability and flow.\n\nFocused on UX optimization and clarity to support higher completion rates and more consistent data collection.\n\nThe survey captured student awareness, frequency of AI use (e.g., ChatGPT), and familiarity with institutional AI policies.\n\nEnsured the final format was export-ready for analysis in R or Python.\n\nTools & Concepts:\nGoogle Forms, Survey Optimization, Educational Research, AI Tool Usage, UX Design, Policy Awareness, Data Structuring"
+  },
+  {
+    "objectID": "projects.html#kyochon-chicken-sentiment-analysis-consumer-insight-strategy",
+    "href": "projects.html#kyochon-chicken-sentiment-analysis-consumer-insight-strategy",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "Conducted sentiment analysis on Google and Yelp reviews for KyoChon, a popular Korean fried chicken restaurant, as part of a digital marketing capstone.\n\nCleaned and prepared review text data using Python and Pandas, addressing duplicates, null values, and special characters.\n\nApplied BERT (Bidirectional Encoder Representations from Transformers) to extract deeper, context-aware sentiment from customer reviews.\n\nIdentified recurring themes in reviews through topic modeling and keyword frequency analysis, helping the team understand brand perception across locations.\n\nVisualized findings using Matplotlib to present trends and consumer insights to guide potential strategy for brand improvement.\n\nTools & Concepts:\nPython, BERT, NLP, Sentiment Analysis, Pandas, Matplotlib, Data Cleaning, Topic Modeling, Consumer Insight, Brand Perception"
+  },
+  {
+    "objectID": "projects.html#cal-poly-farmers-market-local-marketing-strategy-internship",
+    "href": "projects.html#cal-poly-farmers-market-local-marketing-strategy-internship",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "Participated in a marketing internship focused on increasing awareness and engagement with the Cal Poly Pomona Farm Store and weekly farmer’s market.\n\nConducted persona development based on observational data and stakeholder discussions.\n\nAssisted in strategy design using tools like the Marketing Funnel and SWOT Analysis to identify growth opportunities.\n\nProposed creative digital and on-campus outreach ideas, including themed event days, student incentives, and social media content aligned with community values.\n\nCollaborated with a small team to prepare presentation materials and deliver strategic recommendations to Farm Store leadership.\n\nTools & Concepts:\nAudience Targeting, Persona Creation, SWOT Analysis, Grassroots Marketing, Digital Strategy, Campaign Planning, Team Collaboration, Internship Experience"
+  },
+  {
+    "objectID": "projects.html#up-energy-protein-popcorn-market-strategy-consumer-research",
+    "href": "projects.html#up-energy-protein-popcorn-market-strategy-consumer-research",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "Contributed to a team project analyzing consumer insights for a health-focused snack product.\n\nHelped design survey sections focused on brand awareness, slogan testing, and flavor preferences using Google Forms.\n\nCleaned and organized raw survey data using R and Excel, preparing variables for analysis and visualization.\n\nConducted basic descriptive and comparative analysis, highlighting patterns in purchase intent, health behaviors, and packaging preferences.\n\nSupported presentation development using Quarto Revealjs to summarize findings for stakeholders.\n\nTools & Concepts:\nR, Excel, Survey Design, Brand Awareness, Segmentation, Ansoff Matrix, Purchase Intent, Data Cleaning, Visualization"
+  },
+  {
+    "objectID": "projects.html#ai-usage-and-policy-survey-higher-education-research",
+    "href": "projects.html#ai-usage-and-policy-survey-higher-education-research",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "Assisted in formatting and refining a faculty-led research survey on student interactions with AI tools in academic environments.\n\nTranslated a detailed draft into a user-friendly and logically structured Google Form, improving readability and flow.\n\nFocused on UX optimization and clarity to support higher completion rates and more consistent data collection.\n\nThe survey captured student awareness, frequency of AI use (e.g., ChatGPT), and familiarity with institutional AI policies.\n\nEnsured the final format was export-ready for analysis in R or Python.\n\nTools & Concepts:\nGoogle Forms, Survey Optimization, Educational Research, AI Tool Usage, UX Design, Policy Awareness, Data Structuring"
+  },
+  {
+    "objectID": "Resume2025.html",
+    "href": "Resume2025.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Email: Elizabeth91764@gmail.com  Phone: 909-260-6716\n\n\n\nData-driven professional with expertise in data analysis, reporting, and market research. Skilled in R, Python, Excel, SQL, and Tableau, with experience in AI-assisted marketing, customer segmentation, and predictive modeling. Proven ability to analyze large datasets, generate actionable insights, and optimize marketing and business strategies. Passionate about leveraging data analytics to drive informed decision-making and improve operational efficiency.\n\n\n\n\n\n\nOrange, CA | Feb 2019 – Sep 2021, Oct 2022 – Present\n\nPerformed data entry and documentation within the Medical Management System, ensuring compliance with PHI/HIPAA guidelines.\nSupported quality assurance efforts by reviewing service utilization data and assisting with validation processes.\nCollaborated with providers and internal teams to maintain accurate and up-to-date service information.\n\n\n\n\nOrange, CA | Feb 2017 – Feb 2019\n\nEntered, updated, and maintained program data, ensuring accuracy and compliance with reporting standards.\nTracked service utilization trends and generated reports to support program evaluation.\nAssisted in data-driven decision-making by providing insights from member interactions.\n\n\n\n\nRancho Cucamonga, CA | Nov 2014 – Feb 2017\n\nManaged client records and enrollment documentation in compliance with ACA policies.\nUsed CRM tools and spreadsheets to track enrollment data and generate reports.\nImproved outreach by analyzing trends in client engagement and retention.\n\n\n\n\nOntario, CA | Sep 2009 – Feb 2015\n\nCreated business performance reports using KPIs related to sales, engagement, and revenue.\nManaged marketing analytics using social media metrics to assess campaign performance.\nOversaw budget forecasting and operational planning.\n\n\n\n\n\n\n\n\nCal Poly Pomona | Jan 2024 – Present\n\nConducted market and SWOT analyses of the Korean fried chicken industry in the U.S.\nPerformed sentiment analysis on customer reviews using Python and R.\nEvaluated SEO and digital marketing performance to support strategic recommendations.\n\n\n\n\nCal Poly Pomona | Jan 2025 – Present\n\nProcessed and validated large datasets across Excel, Tableau, and Google Sheets.\nBuilt dashboards and reports to support campaign optimization.\n\n\n\n\nCal Poly Pomona | Sep 2023 – Dec 2023\n\nManaged ad campaigns across Google Ads and social platforms.\nPerformed A/B testing and keyword analysis to increase engagement.\nCreated reports tracking campaign ROI and customer acquisition.\n\n\n\n\n\n\n\n\nCalifornia State Polytechnic University, Pomona\nGPA: 4.0 (In Progress – Expected Aug 2025)\n- Focus: Data Analytics, Business Intelligence, AI in Marketing\n\n\n\nCalifornia State Polytechnic University, Pomona\nGPA: 3.86, Summa Cum Laude\n- Emphasis: Industrial/Organizational Psychology\n- Honors: Dean’s List, President’s List\n\n\n\n\n\n\nData Tools: R (ggplot2, dplyr, tidyr, shiny), Python, SQL, Tableau, Excel, Google Sheets\n\nMarketing Tools: Google Analytics, HubSpot, Moz, ChatGPT, SurveyMonkey, Qualtrics\n\nAnalytics: Customer Segmentation, Predictive Modeling, A/B Testing, Market Research\n\nReporting: Qualtrics XM, Airtable, Program Performance Tracking, Compliance Documentation"
+  },
+  {
+    "objectID": "Resume2025.html#professional-summary",
+    "href": "Resume2025.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Data-driven professional with expertise in data analysis, reporting, and market research. Skilled in R, Python, Excel, SQL, and Tableau, with experience in AI-assisted marketing, customer segmentation, and predictive modeling. Proven ability to analyze large datasets, generate actionable insights, and optimize marketing and business strategies. Passionate about leveraging data analytics to drive informed decision-making and improve operational efficiency."
+  },
+  {
+    "objectID": "Resume2025.html#work-experience",
+    "href": "Resume2025.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Orange, CA | Feb 2019 – Sep 2021, Oct 2022 – Present\n\nPerformed data entry and documentation within the Medical Management System, ensuring compliance with PHI/HIPAA guidelines.\nSupported quality assurance efforts by reviewing service utilization data and assisting with validation processes.\nCollaborated with providers and internal teams to maintain accurate and up-to-date service information.\n\n\n\n\nOrange, CA | Feb 2017 – Feb 2019\n\nEntered, updated, and maintained program data, ensuring accuracy and compliance with reporting standards.\nTracked service utilization trends and generated reports to support program evaluation.\nAssisted in data-driven decision-making by providing insights from member interactions.\n\n\n\n\nRancho Cucamonga, CA | Nov 2014 – Feb 2017\n\nManaged client records and enrollment documentation in compliance with ACA policies.\nUsed CRM tools and spreadsheets to track enrollment data and generate reports.\nImproved outreach by analyzing trends in client engagement and retention.\n\n\n\n\nOntario, CA | Sep 2009 – Feb 2015\n\nCreated business performance reports using KPIs related to sales, engagement, and revenue.\nManaged marketing analytics using social media metrics to assess campaign performance.\nOversaw budget forecasting and operational planning."
+  },
+  {
+    "objectID": "Resume2025.html#internships-projects",
+    "href": "Resume2025.html#internships-projects",
+    "title": "Resume",
+    "section": "",
+    "text": "Cal Poly Pomona | Jan 2024 – Present\n\nConducted market and SWOT analyses of the Korean fried chicken industry in the U.S.\nPerformed sentiment analysis on customer reviews using Python and R.\nEvaluated SEO and digital marketing performance to support strategic recommendations.\n\n\n\n\nCal Poly Pomona | Jan 2025 – Present\n\nProcessed and validated large datasets across Excel, Tableau, and Google Sheets.\nBuilt dashboards and reports to support campaign optimization.\n\n\n\n\nCal Poly Pomona | Sep 2023 – Dec 2023\n\nManaged ad campaigns across Google Ads and social platforms.\nPerformed A/B testing and keyword analysis to increase engagement.\nCreated reports tracking campaign ROI and customer acquisition."
+  },
+  {
+    "objectID": "Resume2025.html#education",
+    "href": "Resume2025.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "California State Polytechnic University, Pomona\nGPA: 4.0 (In Progress – Expected Aug 2025)\n- Focus: Data Analytics, Business Intelligence, AI in Marketing\n\n\n\nCalifornia State Polytechnic University, Pomona\nGPA: 3.86, Summa Cum Laude\n- Emphasis: Industrial/Organizational Psychology\n- Honors: Dean’s List, President’s List"
+  },
+  {
+    "objectID": "Resume2025.html#technical-skills-tools",
+    "href": "Resume2025.html#technical-skills-tools",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Tools: R (ggplot2, dplyr, tidyr, shiny), Python, SQL, Tableau, Excel, Google Sheets\n\nMarketing Tools: Google Analytics, HubSpot, Moz, ChatGPT, SurveyMonkey, Qualtrics\n\nAnalytics: Customer Segmentation, Predictive Modeling, A/B Testing, Market Research\n\nReporting: Qualtrics XM, Airtable, Program Performance Tracking, Compliance Documentation"
+  },
+  {
+    "objectID": "revealjs.html#project-overview",
+    "href": "revealjs.html#project-overview",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Project Overview",
+    "text": "Project Overview\nCase Study: KyoChon Chicken\nGoal: Extract insights from Google & Yelp reviews using NLP to understand brand perception and inform strategy."
+  },
+  {
+    "objectID": "revealjs.html#data-and-source",
+    "href": "revealjs.html#data-and-source",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Data and Source",
+    "text": "Data and Source\n\nSourced over 1,000 reviews from Google and Yelp for KyoChon locations across California\n\nIncluded: star rating, review text, location, and timestamp\n\nCleaned data using Pandas: removed duplicates, nulls, special characters"
+  },
+  {
+    "objectID": "revealjs.html#managerial-problem",
+    "href": "revealjs.html#managerial-problem",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Managerial Problem",
+    "text": "Managerial Problem\n\nKyoChon lacked structured customer feedback data across locations\n\nNeeded insights into:\n\nWhat customers love or complain about\nInconsistencies across stores\nData-driven messaging strategy"
+  },
+  {
+    "objectID": "revealjs.html#target-audience",
+    "href": "revealjs.html#target-audience",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Target Audience",
+    "text": "Target Audience\n\nKyoChon executive leadership\n\nBrand & marketing team\n\nOperations and service improvement managers"
+  },
+  {
+    "objectID": "revealjs.html#research-questions",
+    "href": "revealjs.html#research-questions",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Research Questions",
+    "text": "Research Questions\n\nWhat is the overall sentiment of customers across locations?\n\nWhat themes emerge in positive vs. negative reviews?\n\nHow can sentiment and topics guide improvements?"
+  },
+  {
+    "objectID": "revealjs.html#methods",
+    "href": "revealjs.html#methods",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Methods",
+    "text": "Methods\n\nSentiment Analysis\n\nVADER: rule-based\nBERT: contextual deep learning model\n\nTopic Modeling\n\nLDA: surfaced themes across reviews\n\nVisualization\n\nMatplotlib for trend analysis and charts"
+  },
+  {
+    "objectID": "revealjs.html#key-findings",
+    "href": "revealjs.html#key-findings",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nMost common themes in positive reviews: crispy texture, authentic flavor, clean locations\n\nNegative reviews mentioned long wait times and inconsistent service\n\nSentiment aligned with star ratings across most locations"
+  },
+  {
+    "objectID": "revealjs.html#business-impact",
+    "href": "revealjs.html#business-impact",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Business Impact",
+    "text": "Business Impact\n\nActionable insights for store-level improvements\n\nPotential to monitor brand perception over time using this pipeline\n\nSupport for targeted training and content strategies"
+  },
+  {
+    "objectID": "revealjs.html#thank-you",
+    "href": "revealjs.html#thank-you",
+    "title": "Enhancing Brand Perception Through NLP and Sentiment Analysis",
+    "section": "Thank You",
+    "text": "Thank You\nQuestions?"
+  }
+]
