@@ -1,0 +1,66 @@
+---
+title: "Marketing Analytics Projects"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+
+Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+
+Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+
+## What You’ll Find
+
+- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
+- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
+- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
+- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+
+---
+
+
+## KyoChon Chicken – Strategic Campaign Planning
+
+In this project, I led the development of a comprehensive marketing campaign for **KyoChon Chicken**, a popular Korean fried chicken brand. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+
+**Skills Demonstrated:**
+
+- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
+- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
+- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
+- **Brand Positioning:** Ensured consistency across all touchpoints.
+
+---
+
+## Cal Poly Farmer’s Market – Brand Audit & Positioning
+
+This initiative involved conducting a full brand audit for the **Cal Poly Pomona Farm Store and Farmer’s Market**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+
+**Skills Demonstrated:**
+
+- **Brand Analysis:** Audited messaging, tone, and visual identity.
+- **Competitive Benchmarking:** Evaluated brand positioning within the market.
+- **Strategic Communication:** Developed new value propositions and storytelling elements.
+- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+
+---
+
+## Up Energy Protein Popcorn – Product Launch Go-to-Market Plan
+
+For the release of **Up Energy Protein Popcorn**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
+
+**Skills Demonstrated:**
+
+- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
+- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
+- **Budget Management:** Allocated resources efficiently across tactics.
+- **Launch Optimization:** Tracked performance and refined tactics in real time.
+
+
+---
+
+

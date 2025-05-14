@@ -1,0 +1,141 @@
+---
+title: "Marketing Analytics Blog"
+page-layout: article
+---
+
+Below you'll find case studies and blog-style entries showcasing my experience in **data-driven marketing**. These projects emphasize how I leverage tools like R, Python, Tableau, and Google Analytics to uncover insights, drive decisions, and optimize marketing strategy.
+
+## 🔍 KyoChon Chicken – Sentiment Analysis & Consumer Insights
+
+**Tools:** Python, BERT, NLP, Pandas, Matplotlib  
+**Focus:** Extracting sentiment and themes from Google/Yelp reviews  
+**Summary:** Used BERT and topic modeling to uncover customer feedback patterns and inform future brand strategy.
+
+### Behind the Data
+
+Working on this project showed me the real power of customer feedback when paired with natural language processing (NLP). KyoChon, like many restaurant brands, receives tons of public reviews—some glowing, others critical. Rather than just skimming for star ratings, we wanted to dig deeper into the *why* behind those numbers.
+
+So, we collected reviews from Google and Yelp and got to work. After cleaning and preparing the data with Python, we used BERT—a powerful transformer-based model—to detect sentiment with more nuance than traditional methods. Then we applied topic modeling to identify recurring themes.
+
+### What I Learned
+
+This project taught me how much value lives in unstructured data. It's not just about automating sentiment classification, it's about discovering patterns that can actually *drive change*. I learned how to:
+
+- Clean messy, real world text data efficiently
+- Use advanced NLP models like BERT to interpret tone and emotion
+- Identify specific service gaps (e.g., delays in takeout, inconsistent customer service)
+- Translate technical findings into meaningful strategic insights
+
+### How This Helps Others
+
+If you’re in marketing, operations, or customer service—this kind of analysis can be game changing. Instead of guessing why reviews fluctuate, you can pinpoint the issues that need attention, from slow service to standout menu items. You can also identify what people *love* and double down on it in your branding or content strategy.
+
+This type of work is especially helpful for:
+
+- **Restaurant owners or franchise teams** looking to improve consistency across locations  
+- **Marketing analysts** aiming to connect feedback to brand sentiment  
+- **CX/UX teams** who want to align customer perception with internal metrics
+
+Ultimately, I walked away with a clearer understanding of how machine learning can humanize data—and how that empathy driven insight can help brands grow.
+
+
+
+---
+
+## 📊 Up Energy Protein Popcorn – Survey Data Analysis
+
+**Tools:** R, Excel, Quarto RevealJS  
+**Focus:** Consumer preferences and segmentation  
+**Summary:** Analyzed survey data to explore health behaviors, purchase intent, and flavor preferences, supporting a GTM plan.
+
+### Behind the Data
+
+This project involved gathering insights from real consumers to help launch a new health focused snack. We designed a survey focused on purchase drivers like flavor, brand trust, and lifestyle fit. After cleaning the responses using R, I explored patterns that revealed the types of customers most drawn to protein popcorn.
+
+### What I Learned
+
+This experience deepened my skills in data cleaning and exploratory analysis. I learned to:
+
+- Frame effective survey questions to produce actionable data
+- Use R for wrangling categorical responses and creating visual summaries
+- Translate survey trends into marketing recommendations
+- Present insights visually using Quarto RevealJS for stakeholder impact
+
+### How This Helps Others
+
+Brands entering health conscious markets can benefit from structured consumer feedback. Our findings helped clarify the product’s niche, flavor demand, and messaging preferences. This kind of analysis is key for:
+
+- **Product developers** refining ideas before launch  
+- **Brand managers** shaping messaging based on real audience needs  
+- **Startup founders** who want to validate concepts without huge research budgets
+
+Surveys aren’t just academic—they’re a blueprint for understanding what your audience values.
+
+
+---
+
+## 📈 SEO Metrics & CTR Analysis – TRI Client
+
+**Tools:** Google Search Console, Excel, Tableau  
+**Focus:** Keyword performance and web traffic strategy  
+**Summary:** Compared on-page SEO effectiveness and CTR across keyword groups. Used dashboards to visualize areas of opportunity.
+
+### Behind the Data
+
+I collaborated with a local client to analyze their website’s performance and identify SEO improvement areas. We gathered keyword-level data and visualized how each cluster of search terms contributed to traffic and click-through rates. Patterns emerged showing which keywords had strong impressions but weak clicks—prime targets for optimization.
+
+### What I Learned
+
+This project sharpened my ability to connect search data to business outcomes. I learned to:
+
+- Use Google Search Console to extract relevant keyword performance
+- Apply grouping and filtering in Excel for analysis by intent
+- Build clear dashboards that highlight conversion gaps and growth areas
+- Communicate SEO wins and next steps to non-technical stakeholders
+
+### How This Helps Others
+
+If you're running a website, SEO isn't just about rankings—it’s about *relevance*. Understanding how users interact with search results can inform page design, copywriting, and content strategy. These insights benefit:
+
+- **Small businesses** wanting more visibility without paid ads  
+- **Content teams** prioritizing which blogs or service pages to optimize  
+- **Marketing managers** seeking actionable reporting across channels
+
+This project showed me how to turn SEO metrics into strategic, data-backed marketing plans.
+
+---
+
+## 🧠 AI Usage in Higher Education – UX Survey Optimization
+
+**Tools:** Google Forms, SurveyMonkey, R  
+**Focus:** AI policy awareness and student usage behaviors  
+**Summary:** Helped redesign a faculty-led survey for clarity and engagement. Optimized the survey flow and data export structure.
+
+### Behind the Data
+
+This project gave me a front-row seat to an evolving conversation—how students are using tools like ChatGPT in their academic work. I partnered with faculty to refine a detailed survey that would gather honest, high-quality responses. My role focused on formatting, clarity, and making the experience smoother for participants.
+
+### What I Learned
+
+Survey design is as much about *how* you ask as *what* you ask. I gained practical skills in:
+
+- Designing questions that reduce bias and improve readability
+- Structuring forms to keep participants engaged from start to finish
+- Cleaning and formatting response data for smooth analysis in R
+- Thinking about UX in research—not just marketing
+
+### How This Helps Others
+
+If you're in education or research, the format of your survey can make or break your data quality. This kind of optimization helps:
+
+- **Researchers** gather cleaner, more consistent data
+- **Faculty or admin teams** assess policy awareness and tool usage
+- **Education marketers** understand student behavior and engagement
+
+This project reminded me that good data starts with thoughtful design—and that UX isn't just for websites.
+
+
+---
+
+Stay tuned—more projects and insights coming soon!
+

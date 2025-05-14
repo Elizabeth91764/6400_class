@@ -1,0 +1,77 @@
+---
+title: "Enhancing Brand Perception Through NLP and Sentiment Analysis"
+format: revealjs
+---
+
+## Project Overview
+
+**Case Study:** KyoChon Chicken\
+**Goal:** Extract insights from Google & Yelp reviews using NLP to understand brand perception and inform strategy.
+
+------------------------------------------------------------------------
+
+## Data and Source
+
+-   Sourced over 1,000 reviews from **Google and Yelp** for KyoChon locations across California\
+-   Included: star rating, review text, location, and timestamp\
+-   Cleaned data using **Pandas**: removed duplicates, nulls, special characters
+
+------------------------------------------------------------------------
+
+## Managerial Problem
+
+-   KyoChon lacked structured customer feedback data across locations\
+-   Needed insights into:
+    -   What customers love or complain about
+    -   Inconsistencies across stores
+    -   Data-driven messaging strategy
+
+------------------------------------------------------------------------
+
+## Target Audience
+
+-   KyoChon executive leadership\
+-   Brand & marketing team\
+-   Operations and service improvement managers
+
+------------------------------------------------------------------------
+
+## Research Questions
+
+-   What is the overall sentiment of customers across locations?\
+-   What themes emerge in positive vs. negative reviews?\
+-   How can sentiment and topics guide improvements?
+
+------------------------------------------------------------------------
+
+## Methods
+
+-   **Sentiment Analysis**
+    -   VADER: rule-based
+    -   BERT: contextual deep learning model
+-   **Topic Modeling**
+    -   LDA: surfaced themes across reviews
+-   **Visualization**
+    -   Matplotlib for trend analysis and charts
+
+------------------------------------------------------------------------
+
+## Key Findings
+
+-   Most common themes in positive reviews: crispy texture, authentic flavor, clean locations\
+-   Negative reviews mentioned long wait times and inconsistent service\
+-   Sentiment aligned with star ratings across most locations
+
+------------------------------------------------------------------------
+
+## Business Impact
+
+-   Actionable insights for store-level improvements\
+-   Potential to monitor brand perception over time using this pipeline\
+-   Support for targeted training and content strategies
+
+------------------------------------------------------------------------
+
+## Thank You
+
+Questions?\

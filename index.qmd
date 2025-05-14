@@ -1,0 +1,41 @@
+---
+title: "Welcome!"
+format: html
+page-layout: full
+toc: false
+---
+
+::: {style="display: flex; align-items: center; gap: 20px; margin-top: 20px;"}
+<img src="Profile_Pic.jpg" width="120" style="border-radius: 10px;"/>
+
+<div>
+
+<h3>Elizabeth Sanchez</h3>
+
+<p><em>Digital Marketing & Analytics Graduate Student</em></p>
+
+<p>Email: <a href="mailto:Elizabeth91764@gmail.com">Elizabeth91764\@gmail.com</a><br> LinkedIn: <a href="https://www.linkedin.com/in/elizabeth-ru-sanchez-/">linkedin.com/in/ElizabethSanchez</a></p>
+
+</div>
+:::
+
+
+
+# About Me
+
+Welcome to my portfolio. I'm Elizabeth Sanchez, a graduate student in the Digital Marketing program with a strong interest in combining creative strategy and analytical thinking to deliver meaningful business results.
+
+With a background in both traditional and digital marketing, I've worked across various industries including behavioral health, education, and small business consulting. These experiences have shaped my ability to understand audience needs, craft compelling messages, and evaluate performance through data.
+
+What drives me most is the challenge of turning complex information into clear, strategic insights that help brands grow. I enjoy digging into consumer behavior, identifying patterns, and using those findings to guide campaign decisions, product positioning, and storytelling. I'm also passionate about equity in communication---making sure messages reach and resonate with diverse communities.
+
+This portfolio highlights the projects I've worked on throughout my graduate program, including data visualization, market research, segmentation analysis, and marketing strategy. Each project represents a different piece of the larger puzzle: how businesses can better connect with people in an increasingly digital world.
+
+Whether it's designing a strategy, analyzing survey data, or presenting insights to stakeholders, I'm committed to producing work that's thoughtful, grounded in data, and aligned with real-world impact.
+
+::: callout-note
+### Resume
+-   📄 [Download Resume as PDF](Resume2025.pdf)
+:::
+
+

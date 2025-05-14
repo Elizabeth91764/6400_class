@@ -1,0 +1,56 @@
+---
+title: "Skills & Tools"
+format: html
+page-layout: full
+toc: true
+---
+
+# Analytics Toolkit
+
+I apply advanced analytics techniques to uncover meaningful insights from marketing data and translate them into clear, strategic recommendations. My training combines statistical theory with practical applications in customer behavior, segmentation, sentiment analysis, and forecasting developed through both hands on projects and graduate-level coursework.
+
+---
+
+## Core Competencies
+
+### Natural Language Processing & Sentiment Analysis
+- Used **VADER** for rule-based sentiment scoring and **BERT** for contextual sentiment analysis.
+- Applied **LDA (Latent Dirichlet Allocation)** to uncover key themes in large volumes of unstructured text.
+- Conducted text cleaning, keyword extraction, and topic modeling to support brand perception analysis.
+
+### Survey & Customer Insight Analysis
+- Analyzed raw survey data to evaluate brand awareness, product preferences, and customer perception.
+- Applied **ANOVA**, **t-tests**, and **linear regression** in R to uncover group differences and behavioral trends.
+- Aligned findings with the **Ansoff Matrix** and segmentation models to inform marketing strategy.
+
+### Multivariate & Statistical Analysis
+- Experienced with **factor analysis**, **discriminant analysis**, **conjoint analysis**, and **structural equation modeling (SEM)**.
+- Used multivariate techniques to explore consumer decision-making and psychological constructs.
+
+### Forecasting & Predictive Modeling
+- Applied **time series regression**, **exponential smoothing**, and **ARIMA** to model and forecast customer demand and revenue trends.
+- Built forecasting models to support campaign planning and budget decisions.
+
+### Data Wrangling & Visualization
+- Cleaned and transformed data using **Tidyverse** (R) and **Pandas** (Python).
+- Visualized insights using **ggplot2**, **Matplotlib**, **Quarto Revealjs**, and interactive dashboards.
+- Created reproducible, data-driven reports using **R Markdown** and **Quarto**.
+
+---
+
+## Tools & Technologies
+
+**Languages & Libraries:**  
+R (Tidyverse, ggplot2, gtsummary, R Markdown), Python (Pandas, NLTK, VADER, BERT, LDA, Matplotlib)
+
+**Statistical Methods:**  
+ANOVA, t-tests, Regression, Conjoint Analysis, Factor Analysis, SEM, A/B Testing, Forecasting
+
+**Survey & CRM Tools:**  
+Google Forms, HubSpot, Zoho
+
+**Reporting & Visualization:**  
+R Markdown, Quarto Revealjs, Excel, PowerPoint
+
+**Notebook Environments:**  
+Jupyter Notebook, Google Colab
